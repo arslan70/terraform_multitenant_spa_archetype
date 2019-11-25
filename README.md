@@ -9,3 +9,7 @@ This is a serverless solution where all the scalability and uptime is delegated 
 
 Terraform is used as a IAC tool.
 Terragrunt is used as a wrapper to simplify terraform complexities.
+
+# References
+https://github.com/aws-quickstart/saas-identity-cognito
+https://github.com/squidfunk/terraform-aws-cognito-auth
